@@ -4,12 +4,6 @@
 
 <h3 align="center">Building intelligent systems that matter 🚀</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=jai050803&label=Profile%20views&color=00ff9d&style=flat-square" alt="jai050803" />
-  <a href="https://github.com/jai050803?tab=followers">
-    <img src="https://img.shields.io/github/followers/jai050803?label=Followers&style=social" alt="GitHub Badge">
-  </a>
-</p>
 
 <!-- Trophy Section -->
 <p align="center">
