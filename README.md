@@ -2,8 +2,15 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=500&color=00F7A7&center=true&vCenter=true&width=435&lines=Hi+%F0%9F%91%8B%2C+I'm+JAI;Data+Scientist;ML+Engineer;AI+Enthusiast" alt="Typing SVG" />
 </h1>
 
+
 <h3 align="center">Building intelligent systems that matter 🚀</h3>
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=jai050803&label=Profile%20views&color=00ff9d&style=flat-square" alt="jai050803" />
+  <a href="https://github.com/jai050803?tab=followers">
+    <img src="https://img.shields.io/github/followers/jai050803?label=Followers&style=social" alt="GitHub Badge">
+  </a>
+</p>
 
 <!-- Trophy Section -->
 <p align="center">
@@ -11,6 +18,7 @@
     <img src="https://github-profile-trophy.vercel.app/?username=jai050803&theme=onedark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="jai050803" />
   </a>
 </p>
+
 
 ---
 
