@@ -29,14 +29,13 @@
 </p>
 
 - 🎓 B.Tech CSE (Data Science)  
-- 💻 Strong foundation in **C++ and Data Structures & Algorithms**  
-- 🤖 Building systems in **Machine Learning and Computer Vision**  
-- 🧠 Exploring **Advanced CNNs and Transformer architectures**  
-- 🛠 Focused on writing efficient, scalable, and production-ready code  
-- 📫 Connect: [LinkedIn](https://linkedin.com/in/jai050803)
+- 📚 Research-oriented engineer focused on **Computer Vision and Deep Learning**  
+- 🔬 Working on applied models involving **CNNs, Transformers, and real-world datasets**  
+- 💻 Strong problem-solving foundation in **C++ and Data Structures & Algorithms**  
+- 📊 Interested in scalable AI systems and empirical experimentation
+
 
 <br clear="right"/>
----
 
 ## 🌐 Connect with Me
 
