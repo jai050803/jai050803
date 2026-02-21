@@ -143,7 +143,7 @@
   <!-- Replace with dynamic stats if available, otherwise just badges -->
   <img src="https://leetcard.jacoblin.cool/jai050803?theme=dark&font=Marcellus&ext=contest" alt="LeetCode Stats" width="400"/>
   <br>
-  <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jai050803&theme=dark" alt="Codeforces Stats" width="400"/>
+  <!-- <img src="https://codeforces-readme-stats.vercel.app/api/card?username=jai050803&theme=dark" alt="Codeforces Stats" width="400"/> -->
 </p>
 
 ---
