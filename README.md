@@ -22,23 +22,20 @@
 
 ---
 
-## 🙋‍♂️ About Me
+## 🙋‍♂️ About Me  
 
-<!-- Centered Intro with Emojis -->
 <p align="center">
   <img align="right" alt="Coding" width="300" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 </p>
 
-- 🔭 I’m currently working on **Deep Learning & Computer Vision projects**
-- 🌱 I’m currently learning **Advanced CNNs, Transformers, and Robotics**
-- 👯 I’m looking to collaborate on **AI for social good projects**
-- 💬 Ask me about **Machine Learning, Deep Learning, Python, and Data Science**
-- 📫 Reach me at: **[LinkedIn](https://linkedin.com/in/jai050803)**
-- ⚡ Fun fact: **I have a secret talent for juggling code while juggling balls—keeping both the digital and physical worlds in perfect balance!**
-- 💡 **Consistent username:** You can find me everywhere as **jai050803** – GitHub, Codeforces, LeetCode, HackerRank, and more!
+- 🎓 B.Tech CSE (Data Science)  
+- 💻 Strong foundation in **C++ and Data Structures & Algorithms**  
+- 🤖 Building systems in **Machine Learning and Computer Vision**  
+- 🧠 Exploring **Advanced CNNs and Transformer architectures**  
+- 🛠 Focused on writing efficient, scalable, and production-ready code  
+- 📫 Connect: [LinkedIn](https://linkedin.com/in/jai050803)
 
 <br clear="right"/>
-
 ---
 
 ## 🌐 Connect with Me
